@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @komaldevgun
 - 👀 I’m interested in lerning new skills
 - 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on java projects
 - 📫 Reach me on my email komaldevgun@gmail.com
 
 <!---
