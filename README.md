@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @komaldevgun
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning GitHub
+- 👀 I’m interested in maintaining my java skills
+- 🌱 I’m currently learning REST API
 - 💞️ I’m looking to collaborate on java projects
 - 📫 Reach me on my email komaldevgun@gmail.com
 
